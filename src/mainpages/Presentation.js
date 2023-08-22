@@ -13,7 +13,7 @@ function Presentation() {
     <div className="flex flex-col justify-center items-center mt-20 md:mt-44 md:mx-10">
       <HorizontalCard />
       <h2 className="mt-10 font-bold text-xl mb-5 md:mb-20 md:mt-20 md:text-4xl">Notre Histoire</h2>
-      <p className="text-justify container mx-auto md:mb-10">
+      <p className="text-justify mx-5 md:mb-10 md:mx-20">
         OverHead est un groupe de rock composé de quatre amis qui se sont
         rencontrés au lycée. Le guitariste, Martin, est le leader du groupe. Il
         a toujours été passionné de musique et a commencé à jouer de la guitare

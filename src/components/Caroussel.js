@@ -10,17 +10,17 @@ function CarouselDefault() {
       <img
         src={batteur}
         alt="image 1"
-        className="h-full w-full object-cover"
+        className="h-screen w-full object-cover"
       />
       <img
         src={concert}
         alt="image 2"
-        className="h-full w-full object-cover"
+        className="h-screen w-full object-cover"
       />
       <img
         src={foule}
         alt="image 3"
-        className="h-full w-full object-cover"
+        className="h-screen w-full object-cover"
       />
     </Carousel>
   );

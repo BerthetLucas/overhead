@@ -35,6 +35,8 @@ const musicians = [
     description: "Haut les coeurs et les cordes vocales",
     img: chanteur,
   },
+
+
 ];
 
 export default musicians; 
